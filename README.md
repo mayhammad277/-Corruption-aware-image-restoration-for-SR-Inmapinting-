@@ -23,10 +23,15 @@ The entire workflow—from synthetic degradation to paper‑ready evaluation—i
 ## 📁 Repository Structure
 
 ├── 01_Setup_and_Degradation.ipynb # Creates LR/HR pairs & masked images
+
 ├── 02_SuperResolution_SwinIR.ipynb # Fine‑tunes SwinIR on SPEED+
+
 ├── 03_Inpainting_LaMa.ipynb # Fine‑tunes LaMa with spacecraft‑aware masks
+
 ├── 04_Evaluation_and_Summary.ipynb # Generates tables, plots & LaTeX output
+
 ├── README.md
+
 └── .gitignore
 
 
