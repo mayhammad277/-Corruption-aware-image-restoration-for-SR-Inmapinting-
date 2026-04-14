@@ -98,10 +98,15 @@ All results are saved to `My Drive/space_restoration/`:
 *(Results from a 100‑epoch run on SPEED+; actual values depend on training duration.)*
 
 <img width="1700" height="1621" alt="download" src="https://github.com/user-attachments/assets/8f00906d-995e-4947-bf02-e6fba475942f" />
+------------------------------------------------------------------------------------------------------------
+
+
+SR
 <img width="1273" height="415" alt="r1" src="https://github.com/user-attachments/assets/ddeca566-ed82-4cca-8828-61c6781b0aa6" />
 
 
 
+<img width="1255" height="430" alt="r2" src="https://github.com/user-attachments/assets/5e958663-bfac-4012-9902-bc75164432da" />
 
 ---
 
